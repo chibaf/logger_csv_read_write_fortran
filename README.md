@@ -5,4 +5,4 @@ logger_csv_read_write_fortran
 
 $ gfortran -O2 conv.f -o conv
 
-$ $ ./conv < test01.csv > test01nz.csv
+$ ./conv < test01.csv > test01nz.csv
