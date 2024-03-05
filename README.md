@@ -1,7 +1,9 @@
 # logger_csv_read_write_fortran
 logger_csv_read_write_fortran
 
-##usage:
+remove ten zeros records
+
+## usage:
 
 $ gfortran -O2 conv.f -o conv
 
